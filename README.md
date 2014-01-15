@@ -1,5 +1,7 @@
+
+
 Multi-Agent-Pacman
-===========
+==================
 
 This is my CS188 Project 1.
 
