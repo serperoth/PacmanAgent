@@ -1,9 +1,8 @@
 
-
 Multi-Agent-Pacman
 ==================
 
-This is my CS188 Project 1.
+This is my CS188 Project 2.
 
 In this project, I have designed agents for the classic version of Pacman, including ghosts. Along the way,
 I have implemented both minimax and expectimax search and try your hand at evaluation function design. 
